@@ -1,0 +1,9 @@
+name = "frontend-cloudflare"
+main = "src/index.ts"
+compatibility_date = "2023-01-26"
+
+[dev]
+ip = "0.0.0.0"
+port = 9000
+local_protocol="http"
+upstream_protocol="https"
