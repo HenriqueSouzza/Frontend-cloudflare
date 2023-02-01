@@ -2,6 +2,9 @@
   <br>Frontend with Clouldflare
 </h1>
 
+![CloudFlare manager](https://user-images.githubusercontent.com/52017795/216094972-67f2c4b1-e2c6-47ce-bade-5cb6f38358bb.png)
+
+
 ## Objetivo
 
 Este repo apresenta uma poc de duas aplicações sendo gerenciada por um orchestrador, cloudFlare. A ideia não é apresentar boas práticas de implementação componentes ou design pattern nesse projeto. Basicamente, é apresentar uma possível solução para manter duas aplicações com intuito de uma possível modernização em uma delas. <br>
